@@ -3,3 +3,4 @@
   - Variáveis
   - Tipos de dados
   - Números e operadores
+  - Boolean e condicionais
