@@ -42,12 +42,48 @@ console.log(incremento2); //6
 var incremento3 = 5;
 console.log(--incremento3);
 
+// O + e - tantam transformar o valor seguinte em número
 
+var frase = 'Isso é um teste';
++ frase; //NaN
+- frase; //NaN
 
+var idade1 = '23';
++idade1; // 23 (número)
+-idade1; // -23 (número)
+console.log(+idade1 + 5); // 28
 
+var num1 = 5;
+console.log(-num1);
 
+var possuiFaculdade = true;
+console.log(+possuiFaculdade); // 1
 
+//EXERCÍCIOS
 
+//Qual o resultado da seguinte expressão?
+var total = 10 + 5 * 2 / 2 + 20; // 35
+
+//Crie duas expressões que retornem NaN
+var n1 = '100s';
+console.log(+n1);
+var n2 = 'teste' / 2;
+console.log(++n2);
+
+// Somar a string '200' com número 50 e retornar 250
+var n3 = '200';
+console.log(+n3 + 50);
+
+// Incremente o número 5 e retorne o seu valor incrementado
+var x = 5;
+console.log(++x)
+
+// Como dividir o peso por 2?
+var numero = +'80' / 2;
+var unidade = 'kg';
+var peso = numero + unidade; // '80kg'
+//var pesoPorDois = peso / 2; // NaN (Not a Number)  
+console.log(peso)
 
 
 
