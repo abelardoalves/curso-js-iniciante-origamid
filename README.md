@@ -5,3 +5,4 @@
   - Números e operadores;
   - Boolean e condicionais;
   - Funções;
+  - Objeto;
