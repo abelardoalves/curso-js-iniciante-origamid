@@ -6,3 +6,4 @@
   - Boolean e condicionais;
   - Funções;
   - Objeto;
+  - Arrays e Loops;
