@@ -7,3 +7,4 @@
   - Funções;
   - Objeto;
   - Arrays e Loops;
+  - Atribuição e ternário;
